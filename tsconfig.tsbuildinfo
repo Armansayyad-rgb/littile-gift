@@ -1,0 +1,1 @@
+{"root":["./src/main.tsx","./src/vite-env.d.ts","./src/app/App.tsx","./src/config/personalization.ts","./src/state/persistence.ts","./src/systems/progressionSystem.ts","./src/systems/wheelSystem.ts","./src/tests/systems.test.ts"],"version":"5.6.3"}
